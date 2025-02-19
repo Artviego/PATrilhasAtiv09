@@ -1,0 +1,14 @@
+C:\Users\Aluno_Manha\JetRider\PATrilhasAtiv09\Lista 12\e\e\bin\Debug\net9.0\e.exe
+C:\Users\Aluno_Manha\JetRider\PATrilhasAtiv09\Lista 12\e\e\bin\Debug\net9.0\e.deps.json
+C:\Users\Aluno_Manha\JetRider\PATrilhasAtiv09\Lista 12\e\e\bin\Debug\net9.0\e.runtimeconfig.json
+C:\Users\Aluno_Manha\JetRider\PATrilhasAtiv09\Lista 12\e\e\bin\Debug\net9.0\e.dll
+C:\Users\Aluno_Manha\JetRider\PATrilhasAtiv09\Lista 12\e\e\bin\Debug\net9.0\e.pdb
+C:\Users\Aluno_Manha\JetRider\PATrilhasAtiv09\Lista 12\e\e\obj\Debug\net9.0\e.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno_Manha\JetRider\PATrilhasAtiv09\Lista 12\e\e\obj\Debug\net9.0\e.AssemblyInfoInputs.cache
+C:\Users\Aluno_Manha\JetRider\PATrilhasAtiv09\Lista 12\e\e\obj\Debug\net9.0\e.AssemblyInfo.cs
+C:\Users\Aluno_Manha\JetRider\PATrilhasAtiv09\Lista 12\e\e\obj\Debug\net9.0\e.csproj.CoreCompileInputs.cache
+C:\Users\Aluno_Manha\JetRider\PATrilhasAtiv09\Lista 12\e\e\obj\Debug\net9.0\e.dll
+C:\Users\Aluno_Manha\JetRider\PATrilhasAtiv09\Lista 12\e\e\obj\Debug\net9.0\refint\e.dll
+C:\Users\Aluno_Manha\JetRider\PATrilhasAtiv09\Lista 12\e\e\obj\Debug\net9.0\e.pdb
+C:\Users\Aluno_Manha\JetRider\PATrilhasAtiv09\Lista 12\e\e\obj\Debug\net9.0\e.genruntimeconfig.cache
+C:\Users\Aluno_Manha\JetRider\PATrilhasAtiv09\Lista 12\e\e\obj\Debug\net9.0\ref\e.dll
