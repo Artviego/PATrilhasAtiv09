@@ -1,0 +1,15 @@
+C:\Users\Arthur\RiderProjects\Lista 13\e\e\obj\Debug\net9.0\e.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\RiderProjects\Lista 13\e\e\obj\Debug\net9.0\e.AssemblyInfoInputs.cache
+C:\Users\Arthur\RiderProjects\Lista 13\e\e\obj\Debug\net9.0\e.AssemblyInfo.cs
+C:\Users\Arthur\RiderProjects\Lista 13\e\e\obj\Debug\net9.0\e.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\RiderProjects\Lista 13\e\e\obj\Debug\net9.0\e.sourcelink.json
+C:\Users\Arthur\RiderProjects\Lista 13\e\e\bin\Debug\net9.0\e.exe
+C:\Users\Arthur\RiderProjects\Lista 13\e\e\bin\Debug\net9.0\e.deps.json
+C:\Users\Arthur\RiderProjects\Lista 13\e\e\bin\Debug\net9.0\e.runtimeconfig.json
+C:\Users\Arthur\RiderProjects\Lista 13\e\e\bin\Debug\net9.0\e.dll
+C:\Users\Arthur\RiderProjects\Lista 13\e\e\bin\Debug\net9.0\e.pdb
+C:\Users\Arthur\RiderProjects\Lista 13\e\e\obj\Debug\net9.0\e.dll
+C:\Users\Arthur\RiderProjects\Lista 13\e\e\obj\Debug\net9.0\refint\e.dll
+C:\Users\Arthur\RiderProjects\Lista 13\e\e\obj\Debug\net9.0\e.pdb
+C:\Users\Arthur\RiderProjects\Lista 13\e\e\obj\Debug\net9.0\e.genruntimeconfig.cache
+C:\Users\Arthur\RiderProjects\Lista 13\e\e\obj\Debug\net9.0\ref\e.dll
