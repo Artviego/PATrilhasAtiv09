@@ -1,0 +1,14 @@
+/home/arthur/RiderProjects/j/j/bin/Debug/net9.0/j
+/home/arthur/RiderProjects/j/j/bin/Debug/net9.0/j.deps.json
+/home/arthur/RiderProjects/j/j/bin/Debug/net9.0/j.runtimeconfig.json
+/home/arthur/RiderProjects/j/j/bin/Debug/net9.0/j.dll
+/home/arthur/RiderProjects/j/j/bin/Debug/net9.0/j.pdb
+/home/arthur/RiderProjects/j/j/obj/Debug/net9.0/j.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthur/RiderProjects/j/j/obj/Debug/net9.0/j.AssemblyInfoInputs.cache
+/home/arthur/RiderProjects/j/j/obj/Debug/net9.0/j.AssemblyInfo.cs
+/home/arthur/RiderProjects/j/j/obj/Debug/net9.0/j.csproj.CoreCompileInputs.cache
+/home/arthur/RiderProjects/j/j/obj/Debug/net9.0/j.dll
+/home/arthur/RiderProjects/j/j/obj/Debug/net9.0/refint/j.dll
+/home/arthur/RiderProjects/j/j/obj/Debug/net9.0/j.pdb
+/home/arthur/RiderProjects/j/j/obj/Debug/net9.0/j.genruntimeconfig.cache
+/home/arthur/RiderProjects/j/j/obj/Debug/net9.0/ref/j.dll
